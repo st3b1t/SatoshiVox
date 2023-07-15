@@ -3,8 +3,9 @@ Donate voice to your Bitcoin full node
 
 
 ## Hardware requirements
-![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/27920e37-91ff-4db3-aa95-6b13228f7c71)
 ![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/8966aaef-7e24-4618-a841-c649ecfe0262)
+![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/27920e37-91ff-4db3-aa95-6b13228f7c71)
+
 
 https://it.aliexpress.com/w/wholesale-external-usb-audio.html
 
