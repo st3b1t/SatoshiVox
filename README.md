@@ -21,6 +21,7 @@ https://it.aliexpress.com/w/wholesale-external-usb-audio.html
 - alert about Fees de/increase
 - alert about Memory/Disk critical usage
 - alert about dis/connected new peers (ip or Tor nickname)
+- alert about Whales transactions
+- alert abount Halving Countdown (with nice ending music)
 - reads texts found in new OP_RETURN
 - reads random Satoshi quotes
-- 
