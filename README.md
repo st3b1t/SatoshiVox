@@ -31,7 +31,7 @@ Donate voice to your Bitcoin full node
 
 ## Configurations
 
-- trigger of the features listed above
+- trigger each features listed above
 - language to speech and audio volume
 - voice (male, female and other available voices of the speech synthesis library)
 - alert sounds
