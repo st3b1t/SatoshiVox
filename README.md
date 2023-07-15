@@ -6,14 +6,15 @@ Donate voice to your Bitcoin full node
 ![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/8966aaef-7e24-4618-a841-c649ecfe0262)
 ![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/27920e37-91ff-4db3-aa95-6b13228f7c71)
 
-
-https://it.aliexpress.com/w/wholesale-external-usb-audio.html
-
+#### how to get it
+- https://www.amazon.com/s?k=usb+external+audio
+- https://it.aliexpress.com/w/wholesale-external-usb-audio.html
 
 ## Software requirements
 
 - Python (usually just installed in a Bitcoin full node machine)
 - [Festival](https://github.com/festvox/festival) (apt-get install festival)
+- [eSpeak](https://github.com/espeak-ng/espeak-ng) (sudo apt install espeak)
 
 ## Features
 
@@ -26,3 +27,10 @@ https://it.aliexpress.com/w/wholesale-external-usb-audio.html
 - alert abount Halving Countdown (with nice ending music)
 - reads texts found in new OP_RETURN
 - reads random Satoshi quotes
+
+## Configuration
+
+- trigger of the features listed above
+- language to speech and audio volume
+- voice (male, female and other available voices of the speech synthesis library)
+- alert sounds
