@@ -17,7 +17,10 @@ https://it.aliexpress.com/w/wholesale-external-usb-audio.html
 
 ## Features
 
-- alert about new block (like a Blockclock)
+- alert about new Block reads height, transaction count, mining-pool name
 - alert about Fees de/increase
+- alert about Memory/Disk critical usage
 - alert about dis/connected new peers (ip or Tor nickname)
 - reads texts found in new OP_RETURN
+- reads random Satoshi quotes
+- 
