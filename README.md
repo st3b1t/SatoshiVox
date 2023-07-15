@@ -17,8 +17,9 @@ https://it.aliexpress.com/w/wholesale-external-usb-audio.html
 
 ## Features
 
-- alert about new Block reads height, transaction count, mining-pool name
+- alert about new Block reads height, transactions count, mining-pool name
 - alert about Fees de/increase
+- alert about Watch-only Wallet(transactions, check amount)
 - alert about Memory/Disk critical usage
 - alert about dis/connected new peers (ip or Tor nickname)
 - alert about Whales transactions
