@@ -29,7 +29,7 @@ Donate voice to your Bitcoin full node
 - reads texts found in new OP_RETURN
 - reads random Satoshi quotes
 
-## Configuration
+## Configurations
 
 - trigger of the features listed above
 - language to speech and audio volume
