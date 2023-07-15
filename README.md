@@ -18,6 +18,7 @@ Donate voice to your Bitcoin full node
 
 ## Features
 
+- alert about Transaction confirmations you've been waiting for(or unespected tx in a certain address)
 - alert about new Block reads height, transactions count, mining-pool name
 - alert about Fees de/increase
 - alert about Watch-only Wallet(transactions, check amount)
