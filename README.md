@@ -11,5 +11,12 @@ https://it.aliexpress.com/w/wholesale-external-usb-audio.html
 
 ## Software requirements
 
-- Python (usually just installed in *nix machine)
+- Python (usually just installed in a Bitcoin full node machine)
 - [Festival](https://github.com/festvox/festival) (apt-get install festival)
+
+## Features
+
+- alert about new block (like a Blockclock)
+- alert about Fees de/increase
+- alert about dis/connected new peers (ip or Tor nickname)
+- reads texts found in new OP_RETURN
