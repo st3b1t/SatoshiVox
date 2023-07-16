@@ -5,8 +5,8 @@ Donate voice to your Bitcoin full node
 ## Hardware requirements
 ![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/27920e37-91ff-4db3-aa95-6b13228f7c71)
 ![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/8966aaef-7e24-4618-a841-c649ecfe0262)
-![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/ecb393b4-0dc0-4d1e-8a7d-0e1b87fd65ca)
-![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/d6ebf3ef-3019-43fb-827d-1cefaa6222e9)
+
+![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/712ad8ce-2a56-422a-924b-79db09299927)
 
 
 #### how to get it
