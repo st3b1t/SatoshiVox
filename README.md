@@ -1,6 +1,8 @@
 # SatoshiVoice
 Donate voice to your Bitcoin full node
 
+This Project is Working Progresss
+
 
 ## Hardware requirements
 ![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/27920e37-91ff-4db3-aa95-6b13228f7c71)
