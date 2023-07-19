@@ -1,4 +1,4 @@
-# SatoshiVoice
+# SatoshiVox
 Donate voice to your node.
 
 This Project is WORK IN PROGRESS
