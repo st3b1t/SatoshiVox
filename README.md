@@ -1,8 +1,10 @@
 # SatoshiVoice
-Donate voice to your Bitcoin full node
+Donate voice to your node.
 
-This Project is Working Progresss
+This Project is WORK IN PROGRESS
 
+## Mission
+Toward a home automation of the Bitcoin full nodes.
 
 ## Hardware requirements
 ![image](https://github.com/st3b1t/SatoshiVoice/assets/113633676/27920e37-91ff-4db3-aa95-6b13228f7c71)
