@@ -1,7 +1,7 @@
 # SatoshiVox
 Donate voice to your node.
 
-This Project is WORK IN PROGRESS
+*This repository is for now a container of proposals and specifications..*
 
 ## Mission
 Toward a home automation of the Bitcoin full nodes.
