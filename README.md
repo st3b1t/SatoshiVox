@@ -17,6 +17,8 @@ This Project is Working Progresss
 
 ## Software requirements
 
+Text to Speech engine:
+
 - Python (usually just installed in a Bitcoin full node machine)
 - [Festival](https://github.com/festvox/festival) (apt-get install festival)
 - [eSpeak](https://github.com/espeak-ng/espeak-ng) (sudo apt install espeak)
