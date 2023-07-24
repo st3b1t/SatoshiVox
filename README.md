@@ -28,7 +28,7 @@ Text to Speech engine:
 ## Features
 Each of the following alerts is Text to Speech (TTS) technology that converts text into spoken audio, the content is entirely configurable.
 
-- alert about Transaction confirmations you've been waiting for(or unespected tx in a certain address)
+- alert about Transaction confirmations you've been waiting for(or unespected tx for certain address or label in watchonly wallet)
 - alert about new Block reads height, transactions count, mining-pool name
 - alert about Fees de/increase
 - alert about Watch-only Wallet(transactions, check amount)
