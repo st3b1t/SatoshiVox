@@ -46,7 +46,7 @@ Each of the following alerts is Text to Speech (TTS) technology that converts te
 
 ## Configurations
 
-- trigger or disable each features listed above
 - language to speech and audio volume
+- trigger or disable each features listed above
 - voice (male, female and other available voices of the speech synthesis library)
 - alert sounds
