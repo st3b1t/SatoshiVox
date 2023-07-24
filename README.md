@@ -7,6 +7,8 @@ Donate voice to your node.
 Toward a home automation of the Bitcoin full nodes.
 
 ## Hardware requirements
+usually a machine used for bitcoin full node does not include an audio output or a network card, for this I suggest devices of this kind for operation
+
 ![image](https://github.com/st3b1t/SatoshiVox/assets/113633676/68472cb6-e7b6-49c6-a34a-250f4176e02f)
 
 
