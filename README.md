@@ -9,6 +9,7 @@ Toward a home automation of the Bitcoin full nodes.
 ## Use Case
 
 Anyone of you who has a full node working there in the living room or bedroom or bathroom and doesn't want to open ssh/https/rpc/tor to check if it works can be informed from time to time with voice messages from the node itself:
+
 *"Heila' I'm still alive and validating blocks!"*
 
 ## Hardware requirements
