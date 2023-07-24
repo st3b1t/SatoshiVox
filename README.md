@@ -22,8 +22,7 @@ Toward a home automation of the Bitcoin full nodes.
 Text to Speech engine:
 
 - Python (usually just installed in a Bitcoin full node machine)
-- [Festival](https://github.com/festvox/festival) (apt-get install festival)
-- [eSpeak](https://github.com/espeak-ng/espeak-ng) (sudo apt install espeak)
+- [Festival](https://github.com/festvox/festival) OR [eSpeak](https://github.com/espeak-ng/espeak-ng)
 
 ## Features
 Each of the following alerts is Text to Speech (TTS) technology that converts text into spoken audio, the content is entirely configurable.
