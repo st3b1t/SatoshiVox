@@ -7,10 +7,7 @@ Donate voice to your node.
 Toward a home automation of the Bitcoin full nodes.
 
 ## Hardware requirements
-![image](https://github.com/st3b1t/SatoshiVox/assets/113633676/27920e37-91ff-4db3-aa95-6b13228f7c71)
-![image](https://github.com/st3b1t/SatoshiVox/assets/113633676/8966aaef-7e24-4618-a841-c649ecfe0262)
-
-![image](https://github.com/st3b1t/SatoshiVox/assets/113633676/712ad8ce-2a56-422a-924b-79db09299927)
+![image](https://github.com/st3b1t/SatoshiVox/assets/113633676/68472cb6-e7b6-49c6-a34a-250f4176e02f)
 
 
 #### how to get it
