@@ -23,6 +23,7 @@ Text to Speech engine:
 
 - Python (usually just installed in a Bitcoin full node machine)
 - [Festival](https://github.com/festvox/festival) OR [eSpeak](https://github.com/espeak-ng/espeak-ng)
+- Bitcoin node with RPC and ZMQ enabled
 
 ## Features
 Each of the following alerts is Text to Speech (TTS) technology that converts text into spoken audio, the content is entirely configurable.
