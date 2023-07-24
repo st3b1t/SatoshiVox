@@ -13,7 +13,7 @@ Anyone of you who has a full node working there in the living room or bedroom or
 *"Heila' I'm still alive and validating blocks!"*
 
 ## Hardware requirements
-usually a machine used for bitcoin full node does not include an audio output or a network card, for this I suggest devices of this kind for operation
+Usually a machine used for bitcoin full node does not include an audio output or a network card, for this reason I suggest some devices that require only one USB port:
 
 ![image](https://github.com/st3b1t/SatoshiVox/assets/113633676/68472cb6-e7b6-49c6-a34a-250f4176e02f)
 
