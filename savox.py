@@ -30,14 +30,19 @@ import signal
 import struct
 import sys
 import json
+import binascii
 
-from bitcoinlib.transactions import transaction_deserialize
+from bitcoin.core import CBlock, CBlockHeader, CTransaction
+
 
 if (sys.version_info.major, sys.version_info.minor) < (3, 5):
     print("This example only works with Python 3.5 and greater")
     sys.exit(1)
 
 port = 8331
+
+def unhexlify_str(h):
+    return binascii.unhexlify(h.encode('ascii'))
 
 class ZMQHandler():
     def __init__(self):
@@ -46,17 +51,17 @@ class ZMQHandler():
 
         self.zmqSubSocket = self.zmqContext.socket(zmq.SUB)
         self.zmqSubSocket.setsockopt(zmq.RCVHWM, 0)
-        self.zmqSubSocket.setsockopt_string(zmq.SUBSCRIBE, "hashblock")
-        self.zmqSubSocket.setsockopt_string(zmq.SUBSCRIBE, "hashtx")
-        self.zmqSubSocket.setsockopt_string(zmq.SUBSCRIBE, "rawblock")
+        #self.zmqSubSocket.setsockopt_string(zmq.SUBSCRIBE, "hashblock")
+        #self.zmqSubSocket.setsockopt_string(zmq.SUBSCRIBE, "hashtx")
+        #self.zmqSubSocket.setsockopt_string(zmq.SUBSCRIBE, "rawblock")
         self.zmqSubSocket.setsockopt_string(zmq.SUBSCRIBE, "rawtx")
         self.zmqSubSocket.setsockopt_string(zmq.SUBSCRIBE, "sequence")
         self.zmqSubSocket.connect("tcp://127.0.0.1:%i" % port)
 
     def printHex(self, rawtx):
-        print(rawtx)
-        txdes = transaction_deserialize(rawtx)
-        print(txdes)
+        print(rawtx.hex())
+        txdes = CTransaction.deserialize(rawtx)
+        print(str(txdes))#json.dumps(txdes, indent=4))
 
     async def handle(self):
         topic, body, seq = await self.zmqSubSocket.recv_multipart()
@@ -64,7 +69,7 @@ class ZMQHandler():
 
         if len(seq) == 4:
             sequence = str(struct.unpack('<I', seq)[-1])
-        # if topic == b"hashblock":
+        #if topic == b"hashblock":
         #     print('BLOCK ('+sequence+')')
         #     self.printHex(body.hex())
 
@@ -79,7 +84,7 @@ class ZMQHandler():
 
         elif topic == b"rawtx":
             print('\nTX RAW ('+sequence+')')
-            self.printHex(body.hex())
+            self.printHex(body)
 
         elif topic == b"sequence":
             hash = body[:32].hex()
