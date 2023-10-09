@@ -43,6 +43,7 @@ Each of the following alerts is Text to Speech (TTS) technology that converts te
 - alert abount Halving Countdown (with nice ending music)
 - reads texts found in new OP_RETURN
 - reads random Satoshi quotes
+- auto Play of configurable Bitcoin Podcaster via RSS
 
 ## Configurations
 
