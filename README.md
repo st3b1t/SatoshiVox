@@ -33,6 +33,7 @@ Text to Speech engine:
 ## Features
 Each of the following alerts is Text to Speech (TTS) technology that converts text into spoken audio, the content is entirely configurable.
 
+- auto Play of configurable Bitcoin Podcaster via RSS
 - alert about Transaction confirmations you've been waiting for(or unespected tx for certain address or label in watchonly wallet)
 - alert about new Block reads height, transactions count, mining-pool name
 - alert about Fees de/increase
@@ -43,7 +44,6 @@ Each of the following alerts is Text to Speech (TTS) technology that converts te
 - alert abount Halving Countdown (with nice ending music)
 - reads texts found in new OP_RETURN
 - reads random Satoshi quotes
-- auto Play of configurable Bitcoin Podcaster via RSS
 
 ## Configurations
 
