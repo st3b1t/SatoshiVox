@@ -3,6 +3,8 @@ Donate voice to your node.
 
 *This repository is for now a container of proposals and specifications..*
 
+**support the development [🧡 donate via LN ⚡](https://getalby.com/p/st3b1t)**
+
 ## Mission
 Toward a home automation of the Bitcoin full nodes.
 
