@@ -3,7 +3,13 @@ Donate voice to your node.
 
 *This repository is for now a container of proposals and specifications..*
 
-**support the development [🧡 donate via LN ⚡](https://getalby.com/p/st3b1t)**
+**support the development 🧡**
+
+Donate via Lightning Network Bolt12 ⚡ to incentivize future development and bug fixes.
+
+![dontate](https://github.com/st3b1t/st3b1t/raw/main/donate_bolt12.png)
+
+lno1pgqppmsrse80qf0aara4slvcjxrvu6j2rp5ftmjy4yntlsmsutpkvkt6878s98hg39x6ct93flx6jjkpcygfnqzmap67azxk5m792zhs0mg50z8vqgpqc4ecv0ff9klzlrru7uz95jylq9nfhzc5fpk0ezgu6490tr6rrwcqx06a2clgplqdqzfgd3x4h960zypk9md35uxh4suz3frxcz9dckyfm0gs5hl5lgxt8mgawyt63nsu4lzz0pvs95j825qfsvyxcuy9ntytqa7ljz70pcqletnnuklslxgx7zrj8ylrqqertseym9scshtsgcqe0tlyfhwynug9qve279l8j6txr72qr7qrnjrkm3lh7v23vpwlk298jgf34jlrl46s
 
 ## Mission
 Toward a home automation of the Bitcoin full nodes.
